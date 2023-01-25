@@ -1,7 +1,7 @@
 url: $PRIVATE_WEBSITE
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-01-25T08:55:12.248Z
+status: up
+code: 200
+responseTime: 1094
+lastUpdated: 2023-01-25T09:16:29.558Z
 startTime: Tue Jan 17 2023 00:44:52 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
