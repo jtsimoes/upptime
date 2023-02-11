@@ -4,7 +4,7 @@
     "url": "https://agoraaveiro.org",
     "icon": "https://icons.duckduckgo.com/ip3/agoraaveiro.org.ico",
     "slug": "agora-aveiro",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 985,
     "timeMonth": 1261,
     "timeYear": 1261,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-11": 0
+    }
   },
   {
     "name": "Private website",
