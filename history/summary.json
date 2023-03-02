@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/agoraaveiro.org.ico",
     "slug": "agora-aveiro",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 1386,
-    "timeDay": 2360,
-    "timeWeek": 1922,
-    "timeMonth": 1426,
-    "timeYear": 1386,
-    "dailyMinutesDown": {
-      "2023-03-01": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1391,
+    "timeDay": 2358,
+    "timeWeek": 1920,
+    "timeMonth": 1421,
+    "timeYear": 1391,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Private website",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 864,
-    "timeDay": 1300,
-    "timeWeek": 901,
-    "timeMonth": 862,
-    "timeYear": 864,
+    "time": 859,
+    "timeDay": 587,
+    "timeWeek": 886,
+    "timeMonth": 855,
+    "timeYear": 859,
     "dailyMinutesDown": {
       "2023-01-25": 21
     }
