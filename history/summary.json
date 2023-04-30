@@ -24,7 +24,7 @@
     "url": "$PRIVATE_WEBSITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "private-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.47%",
@@ -36,6 +36,7 @@
     "timeMonth": 972,
     "timeYear": 918,
     "dailyMinutesDown": {
+      "2023-04-30": 0,
       "2023-04-27": 53,
       "2023-01-25": 21
     }
