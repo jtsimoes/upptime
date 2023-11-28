@@ -1,7 +1,7 @@
 url: $PRIVATE_WEBSITE
-status: up
-code: 200
-responseTime: 233
-lastUpdated: 2023-11-27T23:01:18.905Z
+status: down
+code: 404
+responseTime: 383
+lastUpdated: 2023-11-28T01:47:37.068Z
 startTime: 2023-01-17T00:44:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
