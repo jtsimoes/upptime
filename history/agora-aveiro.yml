@@ -1,7 +1,7 @@
 url: https://agoraaveiro.org
-status: up
-code: 200
-responseTime: 1380
-lastUpdated: 2025-07-31T23:01:19.484Z
+status: down
+code: 502
+responseTime: 981
+lastUpdated: 2025-08-01T11:50:20.093Z
 startTime: 2023-01-17T00:08:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
